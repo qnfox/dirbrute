@@ -1,5 +1,5 @@
 #dirbrute
-<h3>Usage python scrpit_name.pyc <br>
+<h3>Usage python scrpit_name.py <br>
 Devolped By [ Alqnasfox ]<br>
 <br>
 You Have 4 Options [url] [wordlist path] [start point]<br>
